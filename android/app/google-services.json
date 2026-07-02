@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "272465510028",
+    "project_id": "gsu-campusconnect",
+    "storage_bucket": "gsu-campusconnect.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:272465510028:android:1928f00715dd9612ebc5a9",
+        "android_client_info": {
+          "package_name": "com.cysolutions.gsu_campusconnect"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "272465510028-lv6k6648brq9cm87jpifrk3huij44f48.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAYOTrOaTEMBhSgaqVxRhl-ydIt4BxM75c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "272465510028-lv6k6648brq9cm87jpifrk3huij44f48.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
