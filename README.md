@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # gsu_campusconnect
 
 A new Flutter project.
@@ -15,3 +16,7 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+=======
+# gsu-campusconnect
+GSU CampusConnect — Offline-first university mobile ecosystem      for Gombe State University. Flutter/Dart · Firebase · Riverpod      · OpenStreetMap · Phase 1: Campus navigation, role-based auth,      ID verification &amp; real-time step tracking.
+>>>>>>> b22f7067477d792923b9fa0ecead4975616ffb27
